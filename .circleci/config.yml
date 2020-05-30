@@ -6,37 +6,37 @@
 version: 2
 
 defaults: &defaults
-working_directory: ~/repo
-docker:
+  working_directory: ~/repo
+  docker:
     - image: circleci/node:8.9.1
 
 jobs:
-test:
+  test:
     <<: *defaults
     steps:
-    - checkout
+      - checkout
 
-    - restore_cache:
-        keys:
-        - v1-dependencies-{{ checksum "package.json" }}
-        - v1-dependencies-
+      - restore_cache:
+          keys:
+          - v1-dependencies-{{ checksum "package.json" }}
+          - v1-dependencies-
 
-    - run: npm install
-    - run:
-        name: Run tests & check code coverage
-        command: npm run test-ci
+      - run: npm install
+      - run:
+          name: Run tests & check code coverage
+          command: npm run test-ci
 
-    - save_cache:
-        paths:
+      - save_cache:
+          paths:
             - node_modules
-        key: v1-dependencies-{{ checksum "package.json" }}
+          key: v1-dependencies-{{ checksum "package.json" }}
 
-    - persist_to_workspace:
-        root: ~/repo
-        paths: .
+      - persist_to_workspace:
+          root: ~/repo
+          paths: .
 
 workflows:
-version: 2
-only_test:
+  version: 2
+  only_test:
     jobs:
-    - test
+      - test
