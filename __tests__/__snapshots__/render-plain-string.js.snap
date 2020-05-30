@@ -10,6 +10,7 @@ exports[`SyntaxHighlighter renders childre unadultered when no language disocver
 >
   <code>
     <span
+      className=""
       style={Object {}}
     >
       Contacts* contacts = 
@@ -33,6 +34,7 @@ exports[`SyntaxHighlighter renders childre unadultered when no language disocver
       init]
     </span>
     <span
+      className=""
       style={Object {}}
     >
       ;

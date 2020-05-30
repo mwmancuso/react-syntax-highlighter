@@ -63,6 +63,7 @@ exports[`SyntaxHighlighter component renders correctly with refractor instead of
       const
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -78,6 +79,7 @@ exports[`SyntaxHighlighter component renders correctly with refractor instead of
       woah
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -94,6 +96,7 @@ exports[`SyntaxHighlighter component renders correctly with refractor instead of
       =
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -105,6 +108,7 @@ exports[`SyntaxHighlighter component renders correctly with refractor instead of
       fun
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -121,6 +125,7 @@ exports[`SyntaxHighlighter component renders correctly with refractor instead of
       =&gt;
     </span>
     <span
+      className=""
       style={Object {}}
     >
        fun 
@@ -137,6 +142,7 @@ exports[`SyntaxHighlighter component renders correctly with refractor instead of
       +
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -162,12 +168,14 @@ exports[`SyntaxHighlighter component renders correctly with refractor instead of
       ;
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
@@ -183,6 +191,7 @@ exports[`SyntaxHighlighter component renders correctly with refractor instead of
       const
     </span>
     <span
+      className=""
       style={Object {}}
     >
        dude 
@@ -199,6 +208,7 @@ exports[`SyntaxHighlighter component renders correctly with refractor instead of
       =
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -244,6 +254,7 @@ exports[`SyntaxHighlighter component renders correctly with refractor instead of
       )
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -260,6 +271,7 @@ exports[`SyntaxHighlighter component renders correctly with refractor instead of
       +
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -285,12 +297,14 @@ exports[`SyntaxHighlighter component renders correctly with refractor instead of
       ;
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
@@ -306,6 +320,7 @@ exports[`SyntaxHighlighter component renders correctly with refractor instead of
       function
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -341,6 +356,7 @@ exports[`SyntaxHighlighter component renders correctly with refractor instead of
       )
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -356,12 +372,14 @@ exports[`SyntaxHighlighter component renders correctly with refractor instead of
       {
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
         
@@ -377,6 +395,7 @@ exports[`SyntaxHighlighter component renders correctly with refractor instead of
       return
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -488,6 +507,7 @@ exports[`SyntaxHighlighter component renders correctly with refractor instead of
       n
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -504,6 +524,7 @@ exports[`SyntaxHighlighter component renders correctly with refractor instead of
       =&gt;
     </span>
     <span
+      className=""
       style={Object {}}
     >
        n 
@@ -520,6 +541,7 @@ exports[`SyntaxHighlighter component renders correctly with refractor instead of
       +
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -575,6 +597,7 @@ exports[`SyntaxHighlighter component renders correctly with refractor instead of
       (
     </span>
     <span
+      className=""
       style={Object {}}
     >
       n 
@@ -591,6 +614,7 @@ exports[`SyntaxHighlighter component renders correctly with refractor instead of
       !==
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -626,12 +650,14 @@ exports[`SyntaxHighlighter component renders correctly with refractor instead of
       ;
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
@@ -647,12 +673,14 @@ exports[`SyntaxHighlighter component renders correctly with refractor instead of
       }
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
@@ -728,6 +756,7 @@ exports[`SyntaxHighlighter component renders correctly with refractor instead of
       ;
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
@@ -736,6 +765,7 @@ exports[`SyntaxHighlighter component renders correctly with refractor instead of
     
 
     <span
+      className=""
       style={Object {}}
     >
       
@@ -751,6 +781,7 @@ exports[`SyntaxHighlighter component renders correctly with refractor instead of
       function
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -786,6 +817,7 @@ exports[`SyntaxHighlighter component renders correctly with refractor instead of
       )
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -801,12 +833,14 @@ exports[`SyntaxHighlighter component renders correctly with refractor instead of
       {
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
         
@@ -822,6 +856,7 @@ exports[`SyntaxHighlighter component renders correctly with refractor instead of
       return
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -847,12 +882,14 @@ exports[`SyntaxHighlighter component renders correctly with refractor instead of
       ;
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
@@ -868,6 +905,7 @@ exports[`SyntaxHighlighter component renders correctly with refractor instead of
       }
     </span>
     <span
+      className=""
       style={Object {}}
     >
       

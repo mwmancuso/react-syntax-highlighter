@@ -128,6 +128,7 @@ exports[`SyntaxHighlighter should just render text if syntax is not registered 1
     }
   >
     <span
+      className=""
       style={Object {}}
     >
       print('hello')
@@ -189,12 +190,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
     }
   >
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
                    
@@ -210,12 +213,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       # Import the modules
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
@@ -231,12 +236,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       import
     </span>
     <span
+      className=""
       style={Object {}}
     >
        sys
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
@@ -252,6 +259,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       import
     </span>
     <span
+      className=""
       style={Object {}}
     >
        random
@@ -260,6 +268,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
     
 
     <span
+      className=""
       style={Object {}}
     >
       ans 
@@ -276,6 +285,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       =
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -291,6 +301,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       True
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
@@ -299,6 +310,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
     
 
     <span
+      className=""
       style={Object {}}
     >
       
@@ -314,6 +326,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       while
     </span>
     <span
+      className=""
       style={Object {}}
     >
        ans
@@ -329,12 +342,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       :
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
           question 
@@ -351,6 +366,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       =
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -396,6 +412,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       )
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
@@ -404,6 +421,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
         
 
     <span
+      className=""
       style={Object {}}
     >
           answers 
@@ -420,6 +438,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       =
     </span>
     <span
+      className=""
       style={Object {}}
     >
        random
@@ -435,6 +454,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       .
     </span>
     <span
+      className=""
       style={Object {}}
     >
       randint
@@ -490,6 +510,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       )
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
@@ -498,6 +519,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
         
 
     <span
+      className=""
       style={Object {}}
     >
           
@@ -513,6 +535,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       if
     </span>
     <span
+      className=""
       style={Object {}}
     >
        question 
@@ -529,6 +552,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       ==
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -554,12 +578,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       :
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
               sys
@@ -575,6 +601,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       .
     </span>
     <span
+      className=""
       style={Object {}}
     >
       exit
@@ -600,6 +627,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       )
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
@@ -608,6 +636,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
         
 
     <span
+      className=""
       style={Object {}}
     >
           
@@ -623,6 +652,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       elif
     </span>
     <span
+      className=""
       style={Object {}}
     >
        answers 
@@ -639,6 +669,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       ==
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -664,12 +695,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       :
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
               
@@ -685,6 +718,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       print
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -700,6 +734,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       "It is certain"
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
@@ -708,6 +743,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
         
 
     <span
+      className=""
       style={Object {}}
     >
           
@@ -723,6 +759,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       elif
     </span>
     <span
+      className=""
       style={Object {}}
     >
        answers 
@@ -739,6 +776,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       ==
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -764,12 +802,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       :
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
               
@@ -785,6 +825,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       print
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -800,6 +841,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       "Outlook good"
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
@@ -808,6 +850,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
         
 
     <span
+      className=""
       style={Object {}}
     >
           
@@ -823,6 +866,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       elif
     </span>
     <span
+      className=""
       style={Object {}}
     >
        answers 
@@ -839,6 +883,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       ==
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -864,12 +909,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       :
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
               
@@ -885,6 +932,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       print
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -900,6 +948,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       "You may rely on it"
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
@@ -908,6 +957,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
         
 
     <span
+      className=""
       style={Object {}}
     >
           
@@ -923,6 +973,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       elif
     </span>
     <span
+      className=""
       style={Object {}}
     >
        answers 
@@ -939,6 +990,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       ==
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -964,12 +1016,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       :
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
               
@@ -985,6 +1039,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       print
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -1000,6 +1055,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       "Ask again later"
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
@@ -1008,6 +1064,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
         
 
     <span
+      className=""
       style={Object {}}
     >
           
@@ -1023,6 +1080,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       elif
     </span>
     <span
+      className=""
       style={Object {}}
     >
        answers 
@@ -1039,6 +1097,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       ==
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -1064,12 +1123,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       :
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
               
@@ -1085,6 +1146,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       print
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -1100,6 +1162,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       "Concentrate and ask again"
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
@@ -1108,6 +1171,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
         
 
     <span
+      className=""
       style={Object {}}
     >
           
@@ -1123,6 +1187,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       elif
     </span>
     <span
+      className=""
       style={Object {}}
     >
        answers 
@@ -1139,6 +1204,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       ==
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -1164,12 +1230,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       :
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
               
@@ -1185,6 +1253,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       print
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -1200,6 +1269,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       "Reply hazy, try again"
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
@@ -1208,6 +1278,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
         
 
     <span
+      className=""
       style={Object {}}
     >
           
@@ -1223,6 +1294,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       elif
     </span>
     <span
+      className=""
       style={Object {}}
     >
        answers 
@@ -1239,6 +1311,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       ==
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -1264,12 +1337,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       :
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
               
@@ -1285,6 +1360,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       print
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -1300,6 +1376,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       "My reply is no"
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
@@ -1308,6 +1385,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
         
 
     <span
+      className=""
       style={Object {}}
     >
           
@@ -1323,6 +1401,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       elif
     </span>
     <span
+      className=""
       style={Object {}}
     >
        answers 
@@ -1339,6 +1418,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       ==
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -1364,12 +1444,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       :
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
               
@@ -1385,6 +1467,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       print
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -1400,6 +1483,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders python highli
       "My sources say no"
     </span>
     <span
+      className=""
       style={Object {}}
     >
       

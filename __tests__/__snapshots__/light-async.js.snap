@@ -53,6 +53,7 @@ exports[`SyntaxHighlighter render as text if language doesnt exist 1`] = `
     }
   >
     <span
+      className=""
       style={Object {}}
     >
       print('hello')
@@ -114,12 +115,14 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
     }
   >
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
                   C AREA OF A TRIANGLE WITH A STANDARD SQUARE ROOT 
@@ -131,12 +134,14 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       FUNCTION
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
                   C INPUT - TAPE READER 
@@ -148,6 +153,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       UNIT
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -159,6 +165,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       5
     </span>
     <span
+      className=""
       style={Object {}}
     >
       , 
@@ -170,12 +177,14 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       INTEGER
     </span>
     <span
+      className=""
       style={Object {}}
     >
        INPUT
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
                   C OUTPUT - LINE PRINTER 
@@ -187,6 +196,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       UNIT
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -198,6 +208,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       6
     </span>
     <span
+      className=""
       style={Object {}}
     >
       , 
@@ -209,12 +220,14 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       REAL
     </span>
     <span
+      className=""
       style={Object {}}
     >
        OUTPUT
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
                   C INPUT ERROR DISPLAY ERROR OUTPUT CODE 
@@ -226,6 +239,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       1
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -237,12 +251,14 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       IN
     </span>
     <span
+      className=""
       style={Object {}}
     >
        JOB CONTROL LISTING
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
                       READ INPUT TAPE 
@@ -254,6 +270,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       5
     </span>
     <span
+      className=""
       style={Object {}}
     >
       , 
@@ -265,12 +282,14 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       501
     </span>
     <span
+      className=""
       style={Object {}}
     >
       , IA, IB, IC
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
                   
@@ -282,6 +301,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       501
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -293,6 +313,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       FORMAT
     </span>
     <span
+      className=""
       style={Object {}}
     >
        (I5)
@@ -301,6 +322,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
                 C IA, IB, AND IC MAY NOT BE NEGATIVE OR ZERO
 
     <span
+      className=""
       style={Object {}}
     >
                   C FURTHERMORE, THE 
@@ -312,6 +334,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       SUM
     </span>
     <span
+      className=""
       style={Object {}}
     >
        OF TWO SIDES OF A TRIANGLE
@@ -320,6 +343,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
                 C MUST BE GREATER THAN THE THIRD SIDE, SO WE CHECK FOR THAT, TOO
 
     <span
+      className=""
       style={Object {}}
     >
                       
@@ -331,6 +355,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       IF
     </span>
     <span
+      className=""
       style={Object {}}
     >
        (IA) 
@@ -342,6 +367,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       777
     </span>
     <span
+      className=""
       style={Object {}}
     >
       , 
@@ -353,6 +379,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       777
     </span>
     <span
+      className=""
       style={Object {}}
     >
       , 
@@ -364,12 +391,14 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       701
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
                   
@@ -381,6 +410,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       701
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -392,6 +422,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       IF
     </span>
     <span
+      className=""
       style={Object {}}
     >
        (IB) 
@@ -403,6 +434,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       777
     </span>
     <span
+      className=""
       style={Object {}}
     >
       , 
@@ -414,6 +446,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       777
     </span>
     <span
+      className=""
       style={Object {}}
     >
       , 
@@ -425,12 +458,14 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       702
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
                   
@@ -442,6 +477,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       702
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -453,6 +489,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       IF
     </span>
     <span
+      className=""
       style={Object {}}
     >
        (IC) 
@@ -464,6 +501,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       777
     </span>
     <span
+      className=""
       style={Object {}}
     >
       , 
@@ -475,6 +513,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       777
     </span>
     <span
+      className=""
       style={Object {}}
     >
       , 
@@ -486,12 +525,14 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       703
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
                   
@@ -503,6 +544,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       703
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -514,6 +556,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       IF
     </span>
     <span
+      className=""
       style={Object {}}
     >
        (IA+IB-IC) 
@@ -525,6 +568,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       777
     </span>
     <span
+      className=""
       style={Object {}}
     >
       , 
@@ -536,6 +580,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       777
     </span>
     <span
+      className=""
       style={Object {}}
     >
       , 
@@ -547,12 +592,14 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       704
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
                   
@@ -564,6 +611,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       704
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -575,6 +623,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       IF
     </span>
     <span
+      className=""
       style={Object {}}
     >
        (IA+IC-IB) 
@@ -586,6 +635,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       777
     </span>
     <span
+      className=""
       style={Object {}}
     >
       , 
@@ -597,6 +647,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       777
     </span>
     <span
+      className=""
       style={Object {}}
     >
       , 
@@ -608,12 +659,14 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       705
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
                   
@@ -625,6 +678,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       705
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -636,6 +690,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       IF
     </span>
     <span
+      className=""
       style={Object {}}
     >
        (IB+IC-IA) 
@@ -647,6 +702,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       777
     </span>
     <span
+      className=""
       style={Object {}}
     >
       , 
@@ -658,6 +714,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       777
     </span>
     <span
+      className=""
       style={Object {}}
     >
       , 
@@ -669,12 +726,14 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       799
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
                   
@@ -686,6 +745,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       777
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -697,6 +757,7 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       STOP
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -708,12 +769,14 @@ exports[`SyntaxHighlighter renders fortran highlighted text 1`] = `
       1
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
                   C USING HERON
@@ -802,6 +865,7 @@ exports[`SyntaxHighlighter renders javascript highlighted text 1`] = `
     }
   >
     <span
+      className=""
       style={Object {}}
     >
       import React from "react";
@@ -900,6 +964,7 @@ exports[`SyntaxHighlighter renders text while language loads 1`] = `
     }
   >
     <span
+      className=""
       style={Object {}}
     >
       
@@ -1022,6 +1087,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       import
     </span>
     <span
+      className=""
       style={Object {}}
     >
        React 
@@ -1033,6 +1099,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       from
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -1044,12 +1111,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       "react"
     </span>
     <span
+      className=""
       style={Object {}}
     >
       ;
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
         
@@ -1061,6 +1130,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       import
     </span>
     <span
+      className=""
       style={Object {}}
     >
        uniquePropHOC 
@@ -1072,6 +1142,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       from
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -1083,6 +1154,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       "./lib/unique-prop-hoc"
     </span>
     <span
+      className=""
       style={Object {}}
     >
       ;
@@ -1091,6 +1163,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       
 
     <span
+      className=""
       style={Object {}}
     >
         
@@ -1156,12 +1229,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
        
     </span>
     <span
+      className=""
       style={Object {}}
     >
       {
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
             
@@ -1173,12 +1248,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       constructor
     </span>
     <span
+      className=""
       style={Object {}}
     >
       (props) {
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
                 
@@ -1190,12 +1267,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       super
     </span>
     <span
+      className=""
       style={Object {}}
     >
       (props);
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
                 
@@ -1207,6 +1286,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       this
     </span>
     <span
+      className=""
       style={Object {}}
     >
       .state = { 
@@ -1218,6 +1298,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       component
     </span>
     <span
+      className=""
       style={Object {}}
     >
       : props.children }
@@ -1228,6 +1309,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
           componentDidMount() {
 
     <span
+      className=""
       style={Object {}}
     >
                 setTimeout(
@@ -1245,12 +1327,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
        =&gt;
     </span>
     <span
+      className=""
       style={Object {}}
     >
        {
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
                     
@@ -1262,12 +1346,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       this
     </span>
     <span
+      className=""
       style={Object {}}
     >
       .setState({
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
                         
@@ -1279,6 +1365,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       component
     </span>
     <span
+      className=""
       style={Object {}}
     >
       : 
@@ -1290,6 +1377,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       null
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
@@ -1298,6 +1386,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
                   });
 
     <span
+      className=""
       style={Object {}}
     >
                 }, 
@@ -1309,6 +1398,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       this
     </span>
     <span
+      className=""
       style={Object {}}
     >
       .props.time || 
@@ -1320,6 +1410,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       this
     </span>
     <span
+      className=""
       style={Object {}}
     >
       .props.seconds * 
@@ -1331,6 +1422,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       1000
     </span>
     <span
+      className=""
       style={Object {}}
     >
       );
@@ -1341,6 +1433,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
           render() {
 
     <span
+      className=""
       style={Object {}}
     >
                 
@@ -1352,6 +1445,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       return
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -1363,6 +1457,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       this
     </span>
     <span
+      className=""
       style={Object {}}
     >
       .state.component;

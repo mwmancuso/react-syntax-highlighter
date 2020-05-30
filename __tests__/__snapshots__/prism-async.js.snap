@@ -234,6 +234,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       import
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -245,6 +246,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       React
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -260,6 +262,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       from
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -285,12 +288,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       ;
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
         
@@ -306,6 +311,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       import
     </span>
     <span
+      className=""
       style={Object {}}
     >
        uniquePropHOC 
@@ -321,6 +327,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       from
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -346,6 +353,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       ;
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
@@ -354,6 +362,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       
 
     <span
+      className=""
       style={Object {}}
     >
         
@@ -369,6 +378,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       class
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -384,6 +394,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       Expire
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -399,6 +410,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       extends
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -434,6 +446,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       Component
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -449,12 +462,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       {
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
             
@@ -496,6 +511,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       )
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -511,12 +527,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       {
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
                 
@@ -542,6 +560,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       (
     </span>
     <span
+      className=""
       style={Object {}}
     >
       props
@@ -567,12 +586,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       ;
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
                 
@@ -604,6 +625,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       state
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -620,6 +642,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       =
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -635,6 +658,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       {
     </span>
     <span
+      className=""
       style={Object {}}
     >
        component
@@ -650,6 +674,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       :
     </span>
     <span
+      className=""
       style={Object {}}
     >
        props
@@ -671,6 +696,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       children
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -686,12 +712,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       }
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
             
@@ -707,12 +735,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       }
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
             
@@ -748,6 +778,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       )
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -763,12 +794,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       {
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
                 
@@ -814,6 +847,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       )
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -830,6 +864,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       =&gt;
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -845,12 +880,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       {
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
                     
@@ -906,12 +943,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       {
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
                         component
@@ -927,6 +966,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       :
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -942,12 +982,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       null
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
                     
@@ -983,12 +1025,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       ;
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
                 
@@ -1014,6 +1058,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       ,
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -1061,6 +1106,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       time
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -1077,6 +1123,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       ||
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -1124,6 +1171,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       seconds
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -1140,6 +1188,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       *
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -1175,12 +1224,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       ;
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
             
@@ -1196,12 +1247,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       }
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
             
@@ -1237,6 +1290,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       )
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -1252,12 +1306,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       {
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
                 
@@ -1273,6 +1329,7 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       return
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -1330,12 +1387,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       ;
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
             
@@ -1351,12 +1410,14 @@ exports[`When the code split is loaded - SyntaxHighlighter renders jsx highlight
       }
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
         

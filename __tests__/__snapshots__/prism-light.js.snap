@@ -63,6 +63,7 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       import
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -74,6 +75,7 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       React
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -89,6 +91,7 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       from
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -114,12 +117,14 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       ;
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
@@ -135,6 +140,7 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       import
     </span>
     <span
+      className=""
       style={Object {}}
     >
        uniquePropHOC 
@@ -150,6 +156,7 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       from
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -175,6 +182,7 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       ;
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
@@ -183,6 +191,7 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
     
 
     <span
+      className=""
       style={Object {}}
     >
       
@@ -198,6 +207,7 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       class
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -213,6 +223,7 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       Expire
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -228,6 +239,7 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       extends
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -263,6 +275,7 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       Component
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -278,12 +291,14 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       {
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
           
@@ -325,6 +340,7 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       )
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -340,12 +356,14 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       {
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
               
@@ -371,6 +389,7 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       (
     </span>
     <span
+      className=""
       style={Object {}}
     >
       props
@@ -396,12 +415,14 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       ;
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
               
@@ -433,6 +454,7 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       state
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -449,6 +471,7 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       =
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -464,6 +487,7 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       {
     </span>
     <span
+      className=""
       style={Object {}}
     >
        component
@@ -479,6 +503,7 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       :
     </span>
     <span
+      className=""
       style={Object {}}
     >
        props
@@ -500,6 +525,7 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       children
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -515,12 +541,14 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       }
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
           
@@ -536,12 +564,14 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       }
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
           
@@ -577,6 +607,7 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       )
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -592,12 +623,14 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       {
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
               
@@ -643,6 +676,7 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       )
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -659,6 +693,7 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       =&gt;
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -674,12 +709,14 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       {
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
                   
@@ -735,12 +772,14 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       {
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
                       component
@@ -756,6 +795,7 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       :
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -771,12 +811,14 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       null
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
                   
@@ -812,12 +854,14 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       ;
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
               
@@ -843,6 +887,7 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       ,
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -890,6 +935,7 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       time
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -906,6 +952,7 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       ||
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -953,6 +1000,7 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       seconds
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -969,6 +1017,7 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       *
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -1004,12 +1053,14 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       ;
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
           
@@ -1025,12 +1076,14 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       }
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
           
@@ -1066,6 +1119,7 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       )
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -1081,12 +1135,14 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       {
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
               
@@ -1102,6 +1158,7 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       return
     </span>
     <span
+      className=""
       style={Object {}}
     >
        
@@ -1159,12 +1216,14 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       ;
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
           
@@ -1180,12 +1239,14 @@ exports[`SyntaxHighlighter renders jsx highlighted text 1`] = `
       }
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
 
     </span>
     <span
+      className=""
       style={Object {}}
     >
       
